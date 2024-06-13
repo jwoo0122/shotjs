@@ -1,0 +1,7 @@
+{
+  "name": "shotjs",
+  "type": "module",
+  "bin": {
+    "shotjs": "./index.mjs"
+  }
+}
